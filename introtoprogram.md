@@ -111,7 +111,7 @@ Here, we used a symbol > and it is called a relational operator and in their sim
 |>|Checks if the value of left operand is greater than the value of right operand, if yes then condition becomes true.|(A > B) is not true.|
 |<|Checks if the value of left operand is less than the value of right operand, if yes then condition becomes true.|(A < B) is true.|
 |>=|Checks if the value of left operand is greater than or equal to the value of right operand, if yes then condition becomes true.|(A >= B) is not true.|
-|<=|Checks if the value of left operand is less than or equal to the value of right operand, if yes then condition becomes |true.|(A <= B) is true.|
+|<=|Checks if the value of left operand is less than or equal to the value of right operand, if yes then condition becomes true.|(A <= B) is true.|
 --------------------------------------------------------------------------------------------------------------------------------
 
 *Here, we will show you one example of C Programming which makes use of if conditional statement. Though this statement will be discussed later in a separate chapter, but in short, we use if statement to check a condition and if the condition is true, then the body of if statement is executed, otherwise the body of if statement is skipped.
@@ -126,7 +126,7 @@ Logical operators are very important in any programming language and they help u
 |   Operator |                     Description	                     |           Example         |
 |------------|-------------------------------------------------------|---------------------------|
 |-&&| Called Logical AND operator. If both the operands are non-zero, then condition becomes true.|(A && B) is false.|
-|-| Called Logical OR Operator. If any of the two operands is non-zero, then condition becomes true.|(A || B) is true.|
+|-| Called Logical OR Operator. If any of the two operands is non-zero, then condition becomes true.| (A || B) is true.|
 |-!|Called Logical NOT Operator. Use to reverses the logical state of its operand. If a condition is true then Logical NOT operator will make false.|(A && B) is true.|
 
 --------------------------------------------------------------------------------------------------------------------------------
